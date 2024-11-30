@@ -1,10 +1,4 @@
-import {
-  Card,
-  CardBody,
-  CardFooter,
-  Typography,
-  Button,
-} from "@material-tailwind/react";
+import { Card, Typography } from "@material-tailwind/react";
 import "@fortawesome/fontawesome-free/css/all.css";
 
 export function SocialMediaFooter() {
