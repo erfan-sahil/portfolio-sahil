@@ -3,12 +3,8 @@ import {
   Navbar,
   MobileNav,
   Typography,
-  Button,
   IconButton,
-  Card,
 } from "@material-tailwind/react";
-import "../../Index.css";
-import { Link } from "react-router-dom";
 
 export function Header() {
   const [openNav, setOpenNav] = React.useState(false);

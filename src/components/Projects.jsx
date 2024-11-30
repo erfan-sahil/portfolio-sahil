@@ -1,4 +1,3 @@
-import { Tabs, TabsHeader, Tab } from "@material-tailwind/react";
 import { Card, Typography } from "@material-tailwind/react";
 export function Projects() {
   const data = [

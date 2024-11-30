@@ -1,10 +1,4 @@
-import {
-  Tabs,
-  TabsHeader,
-  TabsBody,
-  Tab,
-  TabPanel,
-} from "@material-tailwind/react";
+import { Tabs, TabsHeader, Tab } from "@material-tailwind/react";
 
 export function Skills() {
   const data = [
