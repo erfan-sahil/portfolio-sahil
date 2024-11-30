@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Caudex';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Caudex Regular'), local('Caudex-Regular'), url(./fonts/OFL.txt) format('woff2');
+  }
+
+  @font-face {
+    font-family: 'Caudex';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Caudex Bold'), local('Caudex-Bold'), url(./fonts/OFL.txt) format('woff2');
+  }
