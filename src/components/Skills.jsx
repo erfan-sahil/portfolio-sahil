@@ -57,7 +57,7 @@ export function Skills() {
         >
           Skills
         </h1>
-        <Tabs value="html" className=" xl:w-[70rem]">
+        <Tabs value="html" className=" xl:w-[80rem]">
           <TabsHeader
             className="bg-transparent flex flex-col xl:flex-row"
             indicatorProps={{

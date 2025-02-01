@@ -22,7 +22,7 @@ export function Projects() {
         </h1>
 
         <div className=" gap-3 flex flex-col xl:flex-row items-center justify-start">
-          <Card className="w-1/2 xl:w-2/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
+          <Card className="w-1/2 md:w-4/12 lg:w-3/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
             <Typography
               color="blue-gray"
               style={{ fontFamily: "Caudex, serif" }}
@@ -31,7 +31,7 @@ export function Projects() {
               <a href="https://movie-arc-zzik.vercel.app/">Movie Arc</a>
             </Typography>
           </Card>
-          <Card className="w-1/2 xl:w-2/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
+          <Card className="w-1/2 md:w-4/12 lg:w-3/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
             <Typography
               color="blue-gray"
               style={{ fontFamily: "Caudex, serif" }}
@@ -40,13 +40,13 @@ export function Projects() {
               <a href="https://hidayah-vgt2.vercel.app/">Hidayah</a>
             </Typography>
           </Card>
-          <Card className="w-1/2 xl:w-2/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
+          <Card className="w-1/2 md:w-4/12 lg:w-3/12 bg-[#fdfcf6] rounded-none shadow-none border-dashed border-2 border-gray-500">
             <Typography
               color="blue-gray"
               style={{ fontFamily: "Caudex, serif" }}
               className="flex font-medium text-lg justify-center items-center p-4 gap-[5px]"
             >
-              <a href="https://healthy-gains.vercel.app/">Healthy Gains</a>
+              <a href="https://healthy-gains.vercel.app/">HealthyGains</a>
             </Typography>
           </Card>
         </div>
