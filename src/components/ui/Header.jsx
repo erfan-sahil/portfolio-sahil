@@ -147,10 +147,11 @@ export function Header() {
               className="text-2xl font-medium"
               style={{ fontFamily: "Caudex, serif" }}
             >
-              As a Frontend Developer, I specialize in turning creative concepts
-              into robust and user-friendly interfaces. With a passion for clean
-              code and a keen eye for design, I craft digital experiences that
-              blend functionality with visual appeal.
+              As a Software Engineer, I specialize in designing and developing
+              scalable, efficient, and user-friendly software solutions. With a
+              passion for clean code and problem-solving, I create robust
+              applications that seamlessly integrate functionality, performance,
+              and maintainability.
             </Typography>
           </div>
         </div>

@@ -46,7 +46,7 @@ export function UserEmail() {
           className=" text-xl font-medium mb-3"
           style={{ fontFamily: "Caudex, serif" }}
         >
-          If you're looking for a front-end developer, let's talk! Reach out at
+          If you're looking for a Software Engineer, let's talk! Reach out at
           <span
             className="font-semibold"
             style={{ fontFamily: "Caudex, serif" }}

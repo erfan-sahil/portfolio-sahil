@@ -19,6 +19,10 @@ export function Skills() {
       value: "javascript",
     },
     {
+      label: "TypeScript",
+      value: "Typrscript",
+    },
+    {
       label: "React",
       value: "react",
     },
@@ -29,6 +33,14 @@ export function Skills() {
     {
       label: "Firebase",
       value: "firebase",
+    },
+    {
+      label: "Express",
+      value: "Express",
+    },
+    {
+      label: "MongoDB",
+      value: "MongoDB",
     },
   ];
 
@@ -43,7 +55,7 @@ export function Skills() {
           className="mr-4 py-1.5 font-medium text-4xl mb-2 xl:mb-5"
           style={{ fontFamily: "Caudex, serif" }}
         >
-          Abilities
+          Skills
         </h1>
         <Tabs value="html" className=" xl:w-[70rem]">
           <TabsHeader
