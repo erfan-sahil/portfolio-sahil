@@ -43,7 +43,7 @@ export function Header() {
           className="flex items-center text-lg font-medium hover:text-[#838077]"
           style={{ fontFamily: "Caudex, serif" }}
         >
-          Abillities
+          Skills
         </a>
       </Typography>
       <Typography
